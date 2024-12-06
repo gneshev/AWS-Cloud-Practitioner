@@ -1,0 +1,71 @@
+AWS Cloud Practitioner
+
+Introduction
+Creating an AWS Account
+
+What is Cloud Computing?
+What is Cloud Computing?
+The Different Types of Cloud Computing
+AWS Cloud Overview
+
+
+AWS Identity & Access Management 
+IAM Introduction: Users, Groups, Policies
+IAM Users & Groups Hands On
+IAM Policies
+IAM Policies Hands On
+IAM MFA Overview
+AWS Access Keys, CLI and SDK
+AWS CLI Setup on Windows
+AWS CLI Setup on Linux
+AWS CLI Hands On
+AWS CloudShell
+IAM Best Practices
+IAM Summary
+
+
+Amazon EC2
+EC2 Basics
+Create an EC2 Instance with EC2 User Data to have a Website Hands On
+EC2 Instance Types Basics
+Security Groups & Classic Ports Overview
+Security Groups Hands On
+How to SSH using Linux 
+How to SSH using Windows
+EC2 Instance Connect
+EC2 Summary
+
+Amazon EC2 Instance Storage 
+EBS Overview
+About EBS Multi-Attach
+EBS Hands On
+EBS Snapshots Overview
+EBS Snapshots Hands On
+AMI Overview
+AMI Hands On
+EC2 Instance Storage Summary
+
+
+Amazon S3 
+S3 Overview
+S3 Hands On
+
+
+Cloud Monitoring
+CloudWatch Metrics & CloudWatch Alarms Overview
+CloudWatch Metrics & CloudWatch Alarms Hands On
+CloudTrail Overview
+CloudTrail Hands On
+AWS Health Dashboard
+AWS Health Dashboard - Hands On
+
+
+Amazon VPC 
+VPC Overview
+VPC, Subnet, Internet Gateway & NAT Gateways
+Security Groups & Network Access Control List
+VPC Hands On
+
+
+
+
